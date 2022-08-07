@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# environmental variables
+.env
+
+# firebase
+.firebase
+.firebaserc
+firebase.json
+firestore.indexes.json
+firestore.rules
